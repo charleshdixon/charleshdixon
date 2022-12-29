@@ -8,3 +8,5 @@ This will, what I hope to be, the beginning of my self-taught blog development j
 
 **I am a student studying English and Philosophy -- I know nothing about code.**
 
+I am debating between Sublime and VSCode as my main editor.
+
